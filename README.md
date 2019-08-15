@@ -26,7 +26,7 @@ Preprocessing consists in:
     - Split the word according with the whitespaces.
 4. **Remove the stop words**
     - Words witch don't give some meaning for the problem, usually conjuction, prepositions e etc.
-5. **Stemming or Leamming**
+5. **Stemming or Leammatization**
     - These thecnics are used to combine the derivatives of the words.
 6. **Filtering by tags**
     - Tags are the sintaxe function of each word.
