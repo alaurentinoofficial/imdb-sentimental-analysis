@@ -1,7 +1,5 @@
 # Sentimental Analysis IMDb
 
-> That it's my first algorithm of sentimental analysis based in NLP.
-
 Used in this project:
 * Numpy
 * NLTK
